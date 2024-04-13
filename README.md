@@ -1,5 +1,5 @@
 Hello everyone in this app i am using mysql for crud opration perform.
-In this i am using EmployeeRestController(){} initialize value.
+In this i am using constructor injection EmployeeRestController(){}.
 
 public EmployeeRestController(EmployeeService eService) {
 		super();
