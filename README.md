@@ -23,6 +23,11 @@ Update employee Detils
 
 ![UpdateEmployee](https://github.com/JavaDevKKT/employee-managment-app/assets/147974177/9f1686ae-3cd1-4e6f-a16e-b72180ac2598)
 
+Delete employee Record from db.
+
+![DeleteEmp](https://github.com/JavaDevKKT/employee-managment-app/assets/147974177/ceb63696-1fea-4d12-837e-05a554380d53)
+
+
 When employee try to reinsert same record it will don't allow to insert record into db.
 
 ![Already Exist](https://github.com/JavaDevKKT/employee-managment-app/assets/147974177/dfd55b52-dff6-47a8-a16b-5933e3479927)
